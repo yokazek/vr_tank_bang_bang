@@ -39,3 +39,15 @@ VR戦車でバンバン
 * Player
 * Enemy
 
+
+----------------
+
+
+## Steps
+
+* Player、Enemy表示
+* Player弾を撃つ
+* Playerヘッドセットリンク
+* Playerコントローラリンク
+* Enemy移動
+* Enemy破壊
