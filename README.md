@@ -22,3 +22,20 @@ VR戦車でバンバン
 
 * 敵の移動(速度,動作)
 
+-------
+
+## function
+
+* 弾を撃つ
+* 移動する
+
+## model
+
+* Object
+* MoveObjcet
+* HitObject
+* BreakObject
+* Bullet
+* Player
+* Enemy
+
